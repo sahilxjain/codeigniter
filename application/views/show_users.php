@@ -15,7 +15,7 @@
 			}
 		</script> 
 
-		<h2> Simple CI CRUD Application </h2>
+		<h2> Simple CI CRUD Operation </h2>
 		<table class="table" width="600" border="1" cellpadding="5">
 			<tr class="success">
 				<th scope="col">Id</th>
